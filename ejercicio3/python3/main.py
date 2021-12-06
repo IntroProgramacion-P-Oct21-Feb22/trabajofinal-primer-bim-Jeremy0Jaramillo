@@ -14,7 +14,7 @@ if (horas > 40):
         else:
             if(tipo == 3):
                 cuota = cuota * 2.5
-                cueldo = horas * cuota
+                sueldo = horas * cuota
             else:
                 if(tipo == 4):
                     cuota = cuota * 3
